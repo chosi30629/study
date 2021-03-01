@@ -1,4 +1,4 @@
-package t01_String;
+package t01_string;
 
 /**
  *  Input: s = "bananas"
@@ -8,7 +8,6 @@ package t01_String;
  *  Output: "bab”
  *
  *  return the longest palindromic substring in s
- *
  */
 public class T04_palindrome {
 

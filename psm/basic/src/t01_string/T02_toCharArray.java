@@ -1,4 +1,4 @@
-package t01_String;
+package t01_string;
 
 /**
  * Input: String s = "in(f(lea)r)n)";
